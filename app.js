@@ -145,7 +145,7 @@ addEventListener("DOMContentLoaded", (e)=>{
             
         })
         i++;
-        if(!(i < 60000000)){
+        if(!(i < 899)){
             clearInterval(interval);
         }
         
